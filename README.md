@@ -1,0 +1,1 @@
+These are [practice problems](http://code.google.com/codejam/contests.html) I've done to prepare for Google's [Code Jam](http://code.google.com/codejam), coming up on April 11th.
